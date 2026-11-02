@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Kanban-Collaboration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Kanban-Collaboration?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Kanban-Collaboration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Kanban-Collaboration?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Kanban-Collaboration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Kanban-Collaboration?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License: CC0 1.0" /></a>
@@ -77,9 +77,9 @@ The table below lists leading commercial enterprise Kanban and work management p
 
 ## 🟩 Self-Hosted &amp; Open-Source Software 💻
 
-The table below catalogs premier open-source and self-hostable Kanban platforms. Each project includes a GitHub social badge indicating its real-time star popularity, sorted descending by GitHub star count:
+The table below catalogs premier open-source and self-hostable Kanban platforms. Each project includes a GitHub social badge indicating its real-time star popularity, sorted descending by GitHub Stars_Count:
 
-| 📦 Software | ⭐ Stars &amp; Community | 🛠️ Tech Stack | 📜 License | ⚡ Real-time | 💡 Key Highlights |
+| 📦 Software | ⭐ GitHub_Stars &amp; Community | 🛠️ Tech Stack | 📜 License | ⚡ Real-time | 💡 Key Highlights |
 |:---|:---|:---|:---|:---:|:---|
 | **[NocoDB](https://github.com/nocodb/nocodb)** | [![NocoDB Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) | TypeScript / Vue.js / Node.js | AGPL-3.0 | ✅ | Open-source Airtable alternative that turns any relational database (PostgreSQL, MySQL, SQLite) into smart Kanban boards, grids, and galleries. |
 | **[Plane](https://github.com/makeplane/plane)** | [![Plane Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) | Next.js / Python (Django) / PostgreSQL | AGPL-3.0 | ✅ | Modern, open-source Jira &amp; Linear alternative featuring real-time Kanban boards, sprint cycles, issue triage, and MCP AI server integrations. |
