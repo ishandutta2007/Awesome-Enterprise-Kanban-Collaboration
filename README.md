@@ -1,62 +1,66 @@
-# Awesome Enterprise Kanban Collaboration
+# 📋 Awesome Enterprise Kanban Collaboration ✨
 
 <p align="center">
   <img src="./assets/banner.svg" alt="Awesome Enterprise Kanban &amp; Workflow Collaboration Banner" width="100%" />
 </p>
 
 <p align="center">
-  <strong>A curated directory of top-tier Enterprise Kanban Collaboration platforms, visual workflow automation systems, commercial SaaS suites, and self-hosted open-source alternatives.</strong>
+  <strong>🚀 A curated directory of top-tier Enterprise Kanban Collaboration platforms, visual workflow automation systems, commercial SaaS suites, and self-hosted open-source alternatives. 🎯</strong>
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Kanban-Collaboration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Kanban-Collaboration?style=social" alt="GitHub Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Kanban-Collaboration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Kanban-Collaboration?style=social" alt="GitHub Forks" /></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License: CC0 1.0" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
 
-## 🧭 Table of Contents
+## 🧭 Table of Contents 📑
 
-- [Overview &amp; SEO Summary](#-overview--seo-summary)
-- [Sector Overview &amp; Market Dynamics](#-sector-overview--market-dynamics)
-- [Enterprise SaaS &amp; Commercial Hosted Platforms](#-enterprise-saas--commercial-hosted-platforms)
-- [Self-Hosted &amp; Open-Source Software](#-self-hosted--open-source-software)
-- [Comprehensive Feature Matrix](#-comprehensive-feature-matrix)
-- [Evaluation &amp; Selection Criteria](#-evaluation--selection-criteria)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
-
-## 🔎 Overview &amp; SEO Summary
-
-**Enterprise Kanban Collaboration** software empowers distributed organizations, agile development teams, and cross-functional business units to visualize workflows, enforce Work-in-Progress (WIP) limits, reduce cycle times, and orchestrate complex portfolio-level initiatives. 
-
-Whether your goal is implementing Scaled Agile Framework (SAFe), Lean portfolio management, private sovereign data-residency compliance, or lightweight developer task tracking, choosing between **cloud-hosted SaaS work operating systems** and **deployable open-source Kanban servers** is a critical architectural decision.
-
-### Key Capabilities Evaluated
-- **Visual Work Delivery:** Real-time multi-board synchronization, swimlanes, custom card fields, and WIP constraints.
-- **Enterprise Governance:** Single Sign-On (SAML/SSO), SCIM user provisioning, audit logging, and role-based access control (RBAC).
-- **Scale & Analytics:** Cumulative flow diagrams (CFD), cycle and lead time tracking, Monte Carlo simulations, and cross-team dependency mapping.
-- **Data Sovereignty:** Self-hosted on-premises deployment, air-gapped support, Docker/Kubernetes orchestration, and open-source licensing.
+- [🔎 Overview &amp; SEO Summary](#-overview--seo-summary)
+- [📈 Sector Overview &amp; Market Dynamics](#-sector-overview--market-dynamics)
+- [🟦 Enterprise SaaS &amp; Commercial Hosted Platforms](#-enterprise-saas--commercial-hosted-platforms)
+- [🟩 Self-Hosted &amp; Open-Source Software](#-self-hosted--open-source-software)
+- [📊 Comprehensive Feature Matrix](#-comprehensive-feature-matrix)
+- [🎯 Evaluation &amp; Selection Criteria](#-evaluation--selection-criteria)
+- [🌟 Star History](#-star-history)
+- [💖 Support &amp; Sponsorship](#-support--sponsorship)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ---
 
-## 📈 Sector Overview &amp; Market Dynamics
+## 🔎 Overview &amp; SEO Summary 🌐
 
-The global collaborative work management and enterprise project portfolio management (PPM) software market is estimated at **$8.0B to $8.8B in 2024** and is projected to expand to **$10.2B+ by 2025**, expanding at a robust ~12–14% CAGR fueled by distributed hybrid workplaces and AI-driven automation. 
+**Enterprise Kanban Collaboration** software empowers distributed organizations, agile development teams, and cross-functional business units to visualize workflows 📊, enforce Work-in-Progress (WIP) limits 🚧, reduce cycle times ⚡, and orchestrate complex portfolio-level initiatives 🎯. 
 
-The sector exhibits a **moderately fragmented** overall structure: while hyperscale enterprise incumbents (like Microsoft and Atlassian) concentrate developer and desktop workflow segments, a vigorous influx of specialized work operating systems, lean portfolio engines, and privacy-first open-source self-hosted alternatives maintain competitive diversity across specialized verticals.
+Whether your goal is implementing Scaled Agile Framework (SAFe) 🏛️, Lean portfolio management 💼, private sovereign data-residency compliance 🔒, or lightweight developer task tracking 🛠️, choosing between **cloud-hosted SaaS work operating systems** ☁️ and **deployable open-source Kanban servers** 💻 is a critical architectural decision.
+
+### 🔑 Key Capabilities Evaluated
+- 🎨 **Visual Work Delivery:** Real-time multi-board synchronization, swimlanes, custom card fields, and WIP constraints.
+- 🛡️ **Enterprise Governance:** Single Sign-On (SAML/SSO), SCIM user provisioning, audit logging, and role-based access control (RBAC).
+- 📈 **Scale & Analytics:** Cumulative flow diagrams (CFD), cycle and lead time tracking, Monte Carlo simulations, and cross-team dependency mapping.
+- 🔐 **Data Sovereignty:** Self-hosted on-premises deployment, air-gapped support, Docker/Kubernetes orchestration, and open-source licensing.
 
 ---
 
-## 🟦 Enterprise SaaS &amp; Commercial Hosted Platforms
+## 📈 Sector Overview &amp; Market Dynamics 📊
+
+The global collaborative work management and enterprise project portfolio management (PPM) software market is estimated at **$8.0B to $8.8B in 2024** and is projected to expand to **$10.2B+ by 2025** 🚀, expanding at a robust ~12–14% CAGR fueled by distributed hybrid workplaces and AI-driven automation 🤖. 
+
+The sector exhibits a **moderately fragmented** overall structure 🧩: while hyperscale enterprise incumbents (like Microsoft and Atlassian) concentrate developer and desktop workflow segments, a vigorous influx of specialized work operating systems, lean portfolio engines, and privacy-first open-source self-hosted alternatives maintain competitive diversity across specialized verticals.
+
+---
+
+## 🟦 Enterprise SaaS &amp; Commercial Hosted Platforms ☁️
 
 The table below lists leading commercial enterprise Kanban and work management platforms, sorted descending by company size (market valuation or parent revenue):
 
-| Platform | Starting Tier Price | Free Tier / Trial Limit | Company Scale (Valuation / Revenue) | Deployment &amp; Ecosystem | Core Enterprise Focus |
+| 🏢 Platform | 💳 Starting Tier Price | 🎁 Free Tier / Trial Limit | 💰 Company Scale (Valuation / Revenue) | 🌐 Deployment &amp; Ecosystem | 🎯 Core Enterprise Focus |
 |:---|:---|:---|:---|:---|:---|
 | **[Targetprocess](https://www.targetprocess.com/)** | $12.00 / user / mo (starting commercial tier) | 30-Day Free Trial (Full enterprise access upon request; no user or entity cap during trial) | **$215B+** (Acquired by Apptio for $4.6B, subsidiary of IBM) | Managed Cloud SaaS | Enterprise Agile Planning (EAP), SAFe, and Strategic Portfolio Management (SPM) |
 | **[Trello Enterprise](https://trello.com/enterprise)** | $5.00 / user / mo (Standard; Enterprise at $17.50 / user / mo) | Free-for-ever tier (Up to 10 workspace boards, unlimited cards, 10MB file limit) | **~$35B** (Atlassian public parent company, NASDAQ: TEAM) | Atlassian Cloud | Pioneer visual Kanban board with Atlassian Admin Key and multi-workspace governance |
@@ -71,11 +75,11 @@ The table below lists leading commercial enterprise Kanban and work management p
 
 ---
 
-## 🟩 Self-Hosted &amp; Open-Source Software
+## 🟩 Self-Hosted &amp; Open-Source Software 💻
 
 The table below catalogs premier open-source and self-hostable Kanban platforms. Each project includes a GitHub social badge indicating its real-time star popularity, sorted descending by GitHub star count:
 
-| Software | Stars &amp; Community | Tech Stack | License | Real-time | Key Highlights |
+| 📦 Software | ⭐ Stars &amp; Community | 🛠️ Tech Stack | 📜 License | ⚡ Real-time | 💡 Key Highlights |
 |:---|:---|:---|:---|:---:|:---|
 | **[NocoDB](https://github.com/nocodb/nocodb)** | [![NocoDB Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) | TypeScript / Vue.js / Node.js | AGPL-3.0 | ✅ | Open-source Airtable alternative that turns any relational database (PostgreSQL, MySQL, SQLite) into smart Kanban boards, grids, and galleries. |
 | **[Plane](https://github.com/makeplane/plane)** | [![Plane Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) | Next.js / Python (Django) / PostgreSQL | AGPL-3.0 | ✅ | Modern, open-source Jira &amp; Linear alternative featuring real-time Kanban boards, sprint cycles, issue triage, and MCP AI server integrations. |
@@ -94,9 +98,9 @@ The table below catalogs premier open-source and self-hostable Kanban platforms.
 
 ---
 
-## 📊 Comprehensive Feature Matrix
+## 📊 Comprehensive Feature Matrix 🔍
 
-| Solution | Deployment | License | WIP Limits | Swimlanes | Portfolio / Scaled Agile | SSO / SAML | Real-time Sync |
+| 🛠️ Solution | 🌐 Deployment | 📜 License | 🚧 WIP Limits | 🏊 Swimlanes | 📈 Portfolio / Scaled Agile | 🛡️ SSO / SAML | ⚡ Real-time Sync |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Targetprocess** | Cloud SaaS | Commercial | ✅ | ✅ | ✅ (SAFe / LeSS) | ✅ | ✅ |
 | **Trello Enterprise** | Cloud SaaS | Commercial | 🟡 (Power-Up) | ❌ | 🟡 (Workspace Views) | ✅ | ✅ |
@@ -119,28 +123,45 @@ The table below catalogs premier open-source and self-hostable Kanban platforms.
 
 ---
 
-## 🎯 Evaluation &amp; Selection Criteria
+## 🎯 Evaluation &amp; Selection Criteria 💡
 
 When selecting an enterprise Kanban system, enterprise architecture teams should review the following technical factors:
 
-1. **WIP Limit Strictness:** Do teams need strict WIP enforcement (e.g., *Kanbanize*, *SwiftKanban*, *Kanboard*, *AgilePlace*) that prevents adding tasks when limits are exceeded, or advisory highlighting?
-2. **Data Residency & Air-Gapped Environments:** Organizations in regulated defense, healthcare, or financial sectors frequently require completely air-gapped self-hosted deployments (*WeKan*, *Kanboard*, *Plane*, *Planka*).
-3. **Hierarchy & Multi-Tier Portfolio Boards:** Frontline task boards must often aggregate into program and strategic initiative levels (*Targetprocess*, *Kanbanize*, *Planview AgilePlace*).
-4. **Extensibility & Agentic Automation:** Modern software teams increasingly favor open APIs and Model Context Protocol (MCP) support (*Kan.bn*, *Plane*) to enable autonomous AI agents to manage board states.
+1. 🚧 **WIP Limit Strictness:** Do teams need strict WIP enforcement (e.g., *Kanbanize*, *SwiftKanban*, *Kanboard*, *AgilePlace*) that prevents adding tasks when limits are exceeded, or advisory highlighting?
+2. 🔒 **Data Residency & Air-Gapped Environments:** Organizations in regulated defense, healthcare, or financial sectors frequently require completely air-gapped self-hosted deployments (*WeKan*, *Kanboard*, *Plane*, *Planka*).
+3. 🏛️ **Hierarchy & Multi-Tier Portfolio Boards:** Frontline task boards must often aggregate into program and strategic initiative levels (*Targetprocess*, *Kanbanize*, *Planview AgilePlace*).
+4. 🤖 **Extensibility & Agentic Automation:** Modern software teams increasingly favor open APIs and Model Context Protocol (MCP) support (*Kan.bn*, *Plane*) to enable autonomous AI agents to manage board states.
 
 ---
 
-## 🤝 Contributing
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Enterprise-Kanban-Collaboration&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Enterprise-Kanban-Collaboration&type=date&legend=top-left)
+
+---
+
+## 💖 Support &amp; Sponsorship ☕
+
+If this curated directory has helped you discover tools, architect workflows, or benchmark software:
+
+- ⭐ **Star this repository** to help others find it!
+- 🍴 **Fork and contribute** your favorite enterprise Kanban workflows.
+- 📢 **Share with colleagues** and teams evaluating collaboration tools.
+- ☕ **Buy me a coffee / Become a sponsor:** Support continued open-source curation and research via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 🤝 Contributing 🚀
 
 Contributions are warmly welcomed! If you are maintaining or using an open-source Kanban platform or enterprise tool that should be included:
 
-1. Fork this repository.
-2. Create a descriptive feature branch (`git checkout -b add-my-kanban-tool`).
-3. Ensure the project is actively maintained (active commits/releases within the past 12 months) with genuine open-source licensing.
-4. Submit a Pull Request detailing the stack, license, and architectural highlights.
+1. 🍴 Fork this repository.
+2. 🌿 Create a descriptive feature branch (`git checkout -b add-my-kanban-tool`).
+3. 📦 Ensure the project is actively maintained (active commits/releases within the past 12 months) with genuine open-source licensing.
+4. 📬 Submit a Pull Request detailing the stack, license, and architectural highlights.
 
 ---
 
-## 📄 License
+## 📄 License ⚖️
 
 This compilation is licensed under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](LICENSE) Public Domain Dedication. Listed commercial products and open-source software packages retain their respective trademarks, copyrights, and software licenses.
